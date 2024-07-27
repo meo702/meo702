@@ -40,9 +40,9 @@
 <h1 align="right">🗒 Knowledge</h1>    
 <div c>
     <div align="center">
-        <img src="https://user-images.githubusercontent.com/78994881/228387237-3d1de50f-8a4b-4e0d-9c79-0a65de6de6ba.gif" width="40%" align="left"/>
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzkzMDVmbHpqamZ0dW83Z3BveTNhajF4cm12eHFha2tiNXpqMzBhYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QHE5gWI0QjqF2/giphy.webp" width="40%" align="left"/>
     </div>
-    <p width="40%" align="right">Lorem ipsum dolor sit amet bla bla bla</p>    
+    <p width="40%" align="right">Backend is a developer with experience working on various projects. I specialize in developing modern and responsive user interfaces using Laravel, Tailwind and web editors. I have an understanding of the best practices of development and performance optimization. We are ready to take on new challenges and contribute to the success of your project</p>    
 </div>
 <br>
 <br><br>
