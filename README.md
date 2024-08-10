@@ -74,14 +74,8 @@
   <h1 align="center">📝 Contact me</h1>    
 <div>
 <div id="badges">
-  <a href="your-linkedin-URL" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
   <a href="t.me/meo702" target="_blank">
     <img src="https://img.shields.io/badge/Rinat-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
-  </a>
-  <a href="your-twitter-URL" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
   
