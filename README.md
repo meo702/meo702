@@ -19,7 +19,7 @@
         <li>
           <b>Age:</b> 20</li>
         <li>
-          <b>Loves:</b> strikeball, valorant
+          <b>Loves:</b> cs2, valorant
         </li>
         <li>
           <b>Gender:</b> Male 
