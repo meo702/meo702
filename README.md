@@ -28,7 +28,7 @@
           <b>Hobbys:</b> Backend Development, Table tennis
         </li>
         <li>
-          <b>Working @:</b> I'm looking job</li>
+          <b>Working @:</b> OLIMP</li>
     </div>
 </div>
 <br><br>
@@ -74,7 +74,7 @@
   <h1 align="center">📝 Contact me</h1>    
 <div>
 <div id="badges">
-  <a href="t.me/meo702" target="_blank">
+  <a href="t.me/meoontg" target="_blank">
     <img src="https://img.shields.io/badge/Rinat-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
   </a>
 </div>
