@@ -28,7 +28,7 @@
           <b>Hobbys:</b> Backend Development, Table tennis
         </li>
         <li>
-          <b>Working @:</b> OLIMP</li>
+          <b>Working @:</b> I'm looking a job </li>
     </div>
 </div>
 <br><br>
