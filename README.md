@@ -19,4 +19,4 @@
 
 ## 📬 Get in Touch
 
-- Connect with me on [Telegram](https://t.me/meo702)
+- Connect with me on [Telegram](https://t.me/meoontelegram)
