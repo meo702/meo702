@@ -8,10 +8,8 @@
 ## 🌱 Currently Exploring
 
 - 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
+  - Building server-side applications a powerful Laravel web framework.
   - Diving into PostgreSQL for efficient and scalable database management.
  
 ## Tech Stack
