@@ -7,10 +7,10 @@
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications a powerful Laravel web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
+- Learning Full Stack Web Development
+- Styling with Tailwind CSS to create modern and responsive user interfaces.
+- Building server-side applications a powerful Laravel web framework.
+- Diving into PostgreSQL for efficient and scalable database management.
  
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=php,tailwind,docker,laravel,postgresql,mysql,redis,rabbitmq)](https://skillicons.dev)
