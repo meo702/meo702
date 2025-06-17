@@ -3,6 +3,10 @@
   <div width="100%">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=200&color=14E4AE&multiline=true&repeat=false&random=false&width=435&height=50&lines=Hi!+I'm+Rinat%2C+a+backend+developer."/>
   </div>
+
+  <p align="center">
+     <img width="600" src="meo702-snake.svg" alt="snake"/>
+  </p>
 </div>
 
 ## 🌱 Currently Exploring
